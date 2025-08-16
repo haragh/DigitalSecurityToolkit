@@ -1,0 +1,15 @@
+yara-python==4.3.1
+fpdf==1.7.2
+jinja2==3.1.2
+weasyprint==60.2
+psutil==5.9.6
+watchdog==3.0.0
+python-magic==0.4.27 
+pytsk3==2050312
+
+
+Za pytsk3 biblioteku prije pokretanja pip install pytsk3 komande,
+morate instalirati Visual Studio C/C++ verziju 14 ili iznad.
+
+
+ZA POKRETANJE APLIKACIJE, POKRENITE run_as_admin.py

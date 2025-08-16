@@ -1,0 +1,758 @@
+{
+    "directory": "C:/Users/harun/OneDrive/Desktop/cpp vjezbe",
+    "timestamp": "2025-07-18T14:35:46.195435",
+    "files": {
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\enkripcija.cpp": {
+            "hashes": {
+                "md5": "08adabcb38ee424629b5c899bbf9f5aa",
+                "sha1": "5c36808607e784e8a6919dcea98ef6ff058bca0f",
+                "sha256": "a308732c837734b26cf9ebb7209874a16db41f73a7ef37ae63ac177ea91abd6f"
+            },
+            "size": 1111,
+            "modified": "2025-04-24T02:06:55.764670"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\enkripcija.exe": {
+            "hashes": {
+                "md5": "ce84ab15f615afb04c3fa0f0755aeb2f",
+                "sha1": "ff592121de8fd2c8f047fd9f77e743b6e7475f3f",
+                "sha256": "11a8ed797aa25a5fc239bdf38111fca670676a45574d375be133a380aa738603"
+            },
+            "size": 62356,
+            "modified": "2025-04-24T02:06:56.335123"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\enkripcija.o": {
+            "hashes": {
+                "md5": "806e970f3af131513b220e85c114af1b",
+                "sha1": "13fd8f791ac2fd4c624c7f8598c648fbf718f99e",
+                "sha256": "b3db092cdbe7008ae5672eebf1aced98f63d421d5a552266a8eece5f114fad80"
+            },
+            "size": 5451,
+            "modified": "2025-04-24T02:06:56.211981"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\klasa_string.cpp": {
+            "hashes": {
+                "md5": "48d9a8abcec56ab52cf2cd91c12f6eb6",
+                "sha1": "a363db91837f24c5aed190a567a6e2953e4065ff",
+                "sha256": "ce0c42a28cb71ec4fdc9fa666fa66ddcdfb2713e96d90e1d081456691c7c4d38"
+            },
+            "size": 481,
+            "modified": "2025-05-14T18:11:13.439290"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\klasa_string.exe": {
+            "hashes": {
+                "md5": "c78455a6d26cdec63b26bf3d2aee2c60",
+                "sha1": "0e3747166eb5c27610371e15001396424be3602a",
+                "sha256": "bbcb50ea18d8c3ae432127c42d514b450ae9c0ccf6e364c3a344b3054643f66d"
+            },
+            "size": 55064,
+            "modified": "2025-05-14T17:37:35.014637"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\klasa_string.o": {
+            "hashes": {
+                "md5": "71bc380fcea9127ef8135264e42219e2",
+                "sha1": "502ad26eadd02a37f2e68f59244355524a22b1cf",
+                "sha256": "917b3308715c522b81f6c78162880a557ff5aa56f0d8052c39d58a09adb3fece"
+            },
+            "size": 1427,
+            "modified": "2025-05-14T17:37:34.897235"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\Klase1.cpp": {
+            "hashes": {
+                "md5": "9fa8c0666d13674580eec93cc8a57b28",
+                "sha1": "7b1e56bbafced67b23a263df29e64b8045d59311",
+                "sha256": "f6c20a9fccc780863f70a92afba3802a4e3ddb406f0ec71e4ddcc1d5bd691e4d"
+            },
+            "size": 1093,
+            "modified": "2025-05-07T17:53:53.908876"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\Klase1.exe": {
+            "hashes": {
+                "md5": "7f589f835602fae6c6ecb03bfcfcf05a",
+                "sha1": "84d130a19c9af63a792b3c8150be21335e1963fb",
+                "sha256": "40ba559a82265562bdb5401164da75e3ba946f1bb3277ab59aa5605ae001cf01"
+            },
+            "size": 55064,
+            "modified": "2025-05-07T17:53:54.482242"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\Klase1.o": {
+            "hashes": {
+                "md5": "f21d1e1b86f827dd6bbcbe8ad42e81a6",
+                "sha1": "73ca7e4167b57a01e72ae8b362fcdbc5a52d24fc",
+                "sha256": "23bacddeb67ceb0b6a68838dca37f05db534d3259a0c7209d647c34375bebbcd"
+            },
+            "size": 1427,
+            "modified": "2025-05-07T17:53:54.355035"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\lv2.cpp": {
+            "hashes": {
+                "md5": "9f93853bcd0b4c39c00dce56ca024d1a",
+                "sha1": "33837898b56dc3c5400a0753bfb4d1e3cf6f8c69",
+                "sha256": "28e95f8e5e858f579f0195d2e633b1aa9cf652fdf3079e0a38b65064bfd8ac3c"
+            },
+            "size": 1041,
+            "modified": "2025-04-07T01:46:17.494666"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\lv2.exe": {
+            "hashes": {
+                "md5": "5a2027338c91e4e5c937dd4655a1f672",
+                "sha1": "e018878456dad3921ca7dc1d128c7a024d0eac62",
+                "sha256": "01037006c30114e8ab409a577340814f74e5a99b79cd605cc99bdb1a546e4f2c"
+            },
+            "size": 94221,
+            "modified": "2025-04-07T01:46:18.094886"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\lv2.o": {
+            "hashes": {
+                "md5": "0dd7ffba13f615b015f3fd651bcf66cc",
+                "sha1": "53a3639b0c7cbc870305e2242c9e891b8eb84c63",
+                "sha256": "db48287b73e85c58a704249b553e3508d8515fbb8f7029b3cda35c7eaaf03ded"
+            },
+            "size": 62758,
+            "modified": "2025-04-07T01:46:17.963802"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\lv3.cpp": {
+            "hashes": {
+                "md5": "dfb96f4db39aab6d326612bdf4677cdb",
+                "sha1": "e1edc78f1525bf6a6f1183b1e1192b2c5f7eeb5b",
+                "sha256": "e0336f8eacb85c65dec1100ea2723740f9602b73913147beabc2f5b24237e1a0"
+            },
+            "size": 950,
+            "modified": "2025-04-06T14:57:40.410572"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\lv3.exe": {
+            "hashes": {
+                "md5": "3425e85256cd3c066cf354a5b787d9bd",
+                "sha1": "98a239b60162fc1ef68b8cb628987ea413967259",
+                "sha256": "dcb7dd4ffce7cc74a2f7910088368c816b62ac5e7383f301abba14f8d0eb48fd"
+            },
+            "size": 137529,
+            "modified": "2025-04-06T14:57:41.116952"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\lv3.o": {
+            "hashes": {
+                "md5": "063caa8533751a513643678815c371cd",
+                "sha1": "c5edfc7355dbe4803ca83359032f7dedb84e57f5",
+                "sha256": "4610a18b2b141e47f60aa73612269c5e3b47b8aef1c20e849d525eec30f8b61d"
+            },
+            "size": 140303,
+            "modified": "2025-04-06T14:57:40.989473"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\lv7.cpp": {
+            "hashes": {
+                "md5": "dbb30e1ddfbd99ef797d4e0a28378d1b",
+                "sha1": "ceced2e49df644c1b0e844c53cebd7b2b1f6a24c",
+                "sha256": "e25b250a0304103d10c4c9b612df8f462d14f6f60d644ca7c5563113c1393b44"
+            },
+            "size": 1045,
+            "modified": "2025-04-16T18:53:03.362683"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\lv7.exe": {
+            "hashes": {
+                "md5": "b6ee8eb46d99975fa3349d02b4ebbc4b",
+                "sha1": "b05046b3755274bbe15ef8462838f19c07f6ac3f",
+                "sha256": "c9fa29cd7a445e6f9cc7aaac80bacd82eb99411c65594a1f3ea4aaab1b80ec27"
+            },
+            "size": 129494,
+            "modified": "2025-04-16T17:46:29.274441"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\lv7.o": {
+            "hashes": {
+                "md5": "21a5037e97fb7817467cbd57085bc185",
+                "sha1": "9d6230fac846b3c206e569b9547e30e2b37797f9",
+                "sha256": "76d87862da96aee710224011742fad2bb36fd8e20a302138de6b955ff80853ab"
+            },
+            "size": 123200,
+            "modified": "2025-04-16T17:46:29.143466"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\matrica.cpp": {
+            "hashes": {
+                "md5": "a8a53c183a18bc522e5ce091a7e0c229",
+                "sha1": "0a2479afae19a8817fcacb8fc015d7d2995b50de",
+                "sha256": "a7220f8dc8f832b17fcefaaa15c879386983081f88ddfa7c069126ae08878123"
+            },
+            "size": 266,
+            "modified": "2025-04-08T16:56:02.788721"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\matrica.exe": {
+            "hashes": {
+                "md5": "0d07bdc5771ecc3ef019931327829d33",
+                "sha1": "02cefc84e06961522d9780eddf436d95ca22378e",
+                "sha256": "01c606a1d974b8ffdd8628b48428fceb050278a2b34aa2555f5ddbfafd77b135"
+            },
+            "size": 140637,
+            "modified": "2025-03-28T01:12:43.655520"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\matrica.o": {
+            "hashes": {
+                "md5": "f097428294281427359d41d63bc3ac36",
+                "sha1": "856e5c2ab174d4db10b1aa210e170e25f407174c",
+                "sha256": "632b388b2a8bde0cf301fd4f526e25043756d201d344477daab53654aedfffc0"
+            },
+            "size": 146367,
+            "modified": "2025-03-28T01:12:43.477179"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\matrica2.cpp": {
+            "hashes": {
+                "md5": "fc4f4cad0ff7b2de1432a0f5146bba58",
+                "sha1": "06add22d2b33c4c33f2cce55800d8b28f425c703",
+                "sha256": "974dee9708944f7749656837ae8cee34696ba69e06cbc7fd9ff428f36b1350de"
+            },
+            "size": 1432,
+            "modified": "2025-04-13T23:15:07.633679"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\matrica2.exe": {
+            "hashes": {
+                "md5": "31b049ffb691d5740a67dc1e3054b360",
+                "sha1": "622a9b4160181cfe02e74b8946f24fe2965209b7",
+                "sha256": "2ea70742bf9c63ed437743a6d4fa5b915ebdf4fcddc623c72e952efc458053a2"
+            },
+            "size": 59195,
+            "modified": "2025-04-13T23:15:08.172018"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\matrica2.o": {
+            "hashes": {
+                "md5": "bc7d7b60a396e4a0effe0cce0372106b",
+                "sha1": "58af4ccaf9dea647c9c8fbca425be2ee0927a5e8",
+                "sha256": "a5e74850cfe809cf43e9f5e27218618b03836b71a4757c3b307d1ecadef648ba"
+            },
+            "size": 4345,
+            "modified": "2025-04-13T23:15:08.047094"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\parcijala_z1.cpp": {
+            "hashes": {
+                "md5": "75663dd913196f38b7b2c67a597fdecf",
+                "sha1": "fdee666892fed8ace6038dca086ed34a939388df",
+                "sha256": "ecd5a573ff25cc622bb6b1ff3a32fb676eb21344aadce9c216181eece145582d"
+            },
+            "size": 396,
+            "modified": "2025-04-27T20:56:05.523434"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\parcijala_z1.exe": {
+            "hashes": {
+                "md5": "d47353a512293454d6d5850d26e1ca30",
+                "sha1": "76e5cf01aa84f2209e4fe91be476b100d40160a5",
+                "sha256": "46ae637b6b96364f875f4ec0157ad07bd04658254a3d9680b72dc94d1757b9b3"
+            },
+            "size": 89270,
+            "modified": "2025-04-27T20:56:06.093761"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\parcijala_z1.o": {
+            "hashes": {
+                "md5": "d05198c30081b050ecac5534ba212bcb",
+                "sha1": "3d520c267167d7c4b33927b8d858276add04532d",
+                "sha256": "9daef39fb9e8777de31559ec05f3179d16389dd6116cb67a42624640d4559963"
+            },
+            "size": 55974,
+            "modified": "2025-04-27T20:56:05.968143"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\parcijala_z2.cpp": {
+            "hashes": {
+                "md5": "380071a405178562748474c55cd0a217",
+                "sha1": "c749edec749dadde6c72fb05369a7df346cd58f7",
+                "sha256": "8c203eacc59c6425d9009c5f375450b656777a56d7d33fc343d376a2d107306d"
+            },
+            "size": 1084,
+            "modified": "2025-04-27T21:32:56.689542"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\parcijala_z2.exe": {
+            "hashes": {
+                "md5": "e6bef57f069a0f869c75befd8f048a1e",
+                "sha1": "24d9894c5a50db006104e4899956a0739a53c049",
+                "sha256": "5cb9a8ab3990b2d3c60aa09660052ea37123507a1a5ec8b1a0a99960405e3097"
+            },
+            "size": 83999,
+            "modified": "2025-04-27T21:33:46.655976"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\parcijala_z2.o": {
+            "hashes": {
+                "md5": "9d304f09c377f36d3db9381c1296a0d2",
+                "sha1": "32741f13494b6ad839f7b49486ea84dab4ac2586",
+                "sha256": "393791f05e03bd297840360aadb49d01fad23866b4a8e01fcfaba74e3f7ac4f7"
+            },
+            "size": 45601,
+            "modified": "2025-04-27T21:33:46.525213"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\parcijala_z3.cpp": {
+            "hashes": {
+                "md5": "ae23ad3c36916fe8f7df9402f3382515",
+                "sha1": "68ed1c986f9bee40bf88fb900a0d049a4cfbb559",
+                "sha256": "f98d0ba574cfdbbeacf0dc80f78c30ec2d1712ef756854959895e3c429c2c75e"
+            },
+            "size": 1144,
+            "modified": "2025-04-30T15:16:19.229752"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\parcijala_z3.exe": {
+            "hashes": {
+                "md5": "5ee27039f2c3d0c915799cd395f7a2bd",
+                "sha1": "2066c5c204c3c70318461dc949d8fa71a2d20a7f",
+                "sha256": "ebe520382832d732bee4aa5c8cb4af16eac40b0221daa88f289a50ff26379c8b"
+            },
+            "size": 63333,
+            "modified": "2025-04-29T17:32:04.380617"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\parcijala_z3.o": {
+            "hashes": {
+                "md5": "2616237ffadf60283fc01be8676aa7be",
+                "sha1": "d28613ea147478077a4e1ee54185800bab1becab",
+                "sha256": "ab6350354354237942bb3b99fd45725756f20a597a554a5165efa17057ca085e"
+            },
+            "size": 6293,
+            "modified": "2025-04-29T17:32:04.258597"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\razmaci.cpp": {
+            "hashes": {
+                "md5": "f523ec4b9385189d76aba4a49822f909",
+                "sha1": "0114b59cc90f940da4c5f4deb8f6b23d2b4a8f0a",
+                "sha256": "ce5f4e663ea565af59257f19ac00c0d57ba4b86004df28145f7b6da5f4a8848d"
+            },
+            "size": 534,
+            "modified": "2025-04-16T18:53:06.115187"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\razmaci.exe": {
+            "hashes": {
+                "md5": "d57a8ae6965e69cf6b8158d206a8c240",
+                "sha1": "2ce7a50da61fe796284375509f36512ab0c4f353",
+                "sha256": "5fe655e2eea9435bb60d32035fa28f5f0b00f6884c4fab59b92374b88b26911e"
+            },
+            "size": 89684,
+            "modified": "2025-04-16T17:16:30.918446"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\razmaci.o": {
+            "hashes": {
+                "md5": "dc88f7ea8fee4ea54954ac8e403253c3",
+                "sha1": "3bd3be020cb043e43304b65b253c753e8ee2b494",
+                "sha256": "3873d34f6587e29b4c5fe3ba7a6651902e1a76eb4539c7872fb3353463bd1c22"
+            },
+            "size": 57005,
+            "modified": "2025-04-16T17:16:30.791132"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\str.cpp": {
+            "hashes": {
+                "md5": "3c42f2438259546c5929654cafe955de",
+                "sha1": "6771b9e5f738eca5e7d877366c0740dfffd61464",
+                "sha256": "0e048f46604e029b69c15007a61318152e7e33b05be591bfe9c3f33d075024cc"
+            },
+            "size": 884,
+            "modified": "2025-04-20T17:05:13.357496"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\str.exe": {
+            "hashes": {
+                "md5": "e686ebf956472f13e490836e45e3befc",
+                "sha1": "d4c484405fcc2c55281d701c3eb51af8185b6ab4",
+                "sha256": "43cd27317927e40bf90ad5c28c38751a747fa67be4540d18462b1673afa2340e"
+            },
+            "size": 113517,
+            "modified": "2025-04-20T17:05:13.993265"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\str.o": {
+            "hashes": {
+                "md5": "161e65c0264631756c328eb3295b6b60",
+                "sha1": "8b58bd3bcf667a6241527a8db8b25a316a654891",
+                "sha256": "fb7926d24053837e96f024b05b53db28fe258c70329daa2a936c3df10232a736"
+            },
+            "size": 98439,
+            "modified": "2025-04-20T17:05:13.862705"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\stringovi.cpp": {
+            "hashes": {
+                "md5": "28fc9fbefe2066f1d382358d3f00f47e",
+                "sha1": "6c5debf0a74ac68078086e60b97aa402b1f5057f",
+                "sha256": "abdcf6e34cbdb597ece02fecf2f90b3998b9164c520e2486f7ee0c29d301654b"
+            },
+            "size": 592,
+            "modified": "2025-04-19T23:50:43.746157"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\stringovi.exe": {
+            "hashes": {
+                "md5": "b6f37a3a6859e1b5faade69b1a7ffff9",
+                "sha1": "c9d15c5a54ce00f3f9ae0e6e2582fe70af840894",
+                "sha256": "0cd3379ac1a8d75031ddd4a655192e78265a9b24bdf886161d2c25d254960aca"
+            },
+            "size": 116484,
+            "modified": "2025-04-19T23:50:44.384652"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\stringovi.o": {
+            "hashes": {
+                "md5": "1b08ac95f8ff15c7b515395616ad53fa",
+                "sha1": "728ed6cb305868aeeeebb15eaffbd581c14b3863",
+                "sha256": "464b0d75344c2cdf592d7337790675912babc462978f0fe5c0ce68a57fc0fb6d"
+            },
+            "size": 104502,
+            "modified": "2025-04-19T23:50:44.257844"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\test.txt": {
+            "hashes": {
+                "md5": "4c45ae7e753d0061ce5d6f67fa6fc7ff",
+                "sha1": "4370df1462d82c36d26cf1941a4b28ec8646af95",
+                "sha256": "39d0080c41cf96f94eacb138d8e3970905eef2fb2926674fc707ae6ef235e39d"
+            },
+            "size": 21,
+            "modified": "2025-03-18T17:54:02.953198"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\unija.cpp": {
+            "hashes": {
+                "md5": "3aeca5e0762246c3b1fd0ad728a3b9fc",
+                "sha1": "daec41d4e9bdec1f60c70f3d3a147ecd9f8320e3",
+                "sha256": "8d242363c1868bd7e05e5c84f45b34cbdc14b356325b53aace12b7e5cb6229b4"
+            },
+            "size": 1593,
+            "modified": "2025-04-19T19:23:01.331101"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\unija.exe": {
+            "hashes": {
+                "md5": "f41752eef45357b12684a88a77e60d7b",
+                "sha1": "68101200105543ff855023d05579008071f11be1",
+                "sha256": "00185a59c37f372f05c99173b287bd7f2df234e061ee48c155d8a5e7f90c2e9b"
+            },
+            "size": 58574,
+            "modified": "2025-04-19T19:23:01.899009"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\unija.o": {
+            "hashes": {
+                "md5": "0f471625fd7c15895c91247369fe1822",
+                "sha1": "e4482a821d4d5fd8421995e65ad6cde58803a3f8",
+                "sha256": "3e3634144a264836861c1f57e2cec144c31d96017f073b751867bbb8c16d00bc"
+            },
+            "size": 3779,
+            "modified": "2025-04-19T19:23:01.783645"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\u_matrica.cpp": {
+            "hashes": {
+                "md5": "8cc114ae7c29e1d83e3203d020c22623",
+                "sha1": "8842b8dcbe72183834e8bbedf1ec2cfe8b081d94",
+                "sha256": "af7978c67ff6be36308aa0289ccef16cf417250bcfa6ac89350fd7ff9c4ece69"
+            },
+            "size": 928,
+            "modified": "2025-04-19T19:41:44.091817"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\u_matrica.exe": {
+            "hashes": {
+                "md5": "4ceaa9fec1ed5c0b450d530ef1ea08a8",
+                "sha1": "039c9733cda9294f3d12eb34e88a1550ea5ba4ac",
+                "sha256": "f617f913f1e05af9825827cdd53d04dafdbd307f4c1f60d700c84e053eed6dee"
+            },
+            "size": 59080,
+            "modified": "2025-04-19T19:41:44.632143"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\u_matrica.o": {
+            "hashes": {
+                "md5": "34b3bbc2e44f527db8f2d72184b49616",
+                "sha1": "24916dce3ab8d5c73e94299b22de240f8267c91b",
+                "sha256": "98d912113af8d650f6c28792acd31f9a8c70ff0aabd26083f5dc34404cfdd229"
+            },
+            "size": 4105,
+            "modified": "2025-04-19T19:41:44.511581"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\vektor.cpp": {
+            "hashes": {
+                "md5": "41be177e1c7be09579b81a3007323756",
+                "sha1": "574f31419e6e9aa1f69cb2a233165b34e41ed7bc",
+                "sha256": "52cc443b9f93de8aa15d1b1b9a8f167c4322afdf72be52f0e33eb993618087bd"
+            },
+            "size": 441,
+            "modified": "2025-03-28T01:16:08.619198"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\vektor.exe": {
+            "hashes": {
+                "md5": "64be058997a5dfb2b2e7dacc61478fb7",
+                "sha1": "727e71328f6bb88340b740161526350a9abdad75",
+                "sha256": "70ab6cb31c15016f8eb287804b5ecbaec61c010b89615784c672698201f0fe84"
+            },
+            "size": 56673,
+            "modified": "2025-03-21T17:30:04.179374"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\vektor.o": {
+            "hashes": {
+                "md5": "aecd5943a94815771d460340745bb9a0",
+                "sha1": "e2901aa4edcfb6022831080f0448af49955a24fb",
+                "sha256": "8a2385e170a23520d1aff11c631be2ecdb82bea9bbd880ddb0211982bae591f6"
+            },
+            "size": 2000,
+            "modified": "2025-03-21T17:30:04.068249"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\vjezba.cpp": {
+            "hashes": {
+                "md5": "f32bd65dedaa0412aa2edcbafd50692e",
+                "sha1": "346317143f6654c49bf67c4dd04ddb39cad5c23c",
+                "sha256": "9f83946c2b25a6de2691e4bdc97026535179fe545a3a197d523145bbebddc52a"
+            },
+            "size": 579,
+            "modified": "2025-04-16T02:44:38.490130"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\vjezba.exe": {
+            "hashes": {
+                "md5": "9e288d4f0804fae1c7c43c17ec584d00",
+                "sha1": "84f504ed7cb8b04b3d88c8b3103d6b04ae10769d",
+                "sha256": "db983c15b0a3931edc949b462f150b7b571fec40285943787050322207808a2e"
+            },
+            "size": 57112,
+            "modified": "2025-04-15T23:49:42.022424"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\vjezba.o": {
+            "hashes": {
+                "md5": "9c27557a275b58ddaf3c25077a73a611",
+                "sha1": "f4100d8bf9d293ab1213c509756cf050c1e1d5fc",
+                "sha256": "712f46b8a305ec1dd13739153f3897dc21a09ef6c1aec84f754eb5fc13173ef3"
+            },
+            "size": 2600,
+            "modified": "2025-04-15T23:49:41.912209"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\vjezbanje.cpp": {
+            "hashes": {
+                "md5": "5fd200383e9ba6bc99507354df73c5fe",
+                "sha1": "fc464539d1b6573a4a607bd5c060b79f5a2de7e8",
+                "sha256": "39b08702560a020320470bf3af28f3e93eb7eb29a47cd3f8e54bac1a46ed88bb"
+            },
+            "size": 1166,
+            "modified": "2025-04-15T23:54:50.024833"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\vjezbanje.exe": {
+            "hashes": {
+                "md5": "ed7a258e3835f26edd649141d32a54f4",
+                "sha1": "ac7b0571e784680a2bc08fcbdafaa2db7548f8bd",
+                "sha256": "ff9fcf94bf812e8de9867890a1bad8057d788499be3ea87a3ca9854bb396de73"
+            },
+            "size": 60265,
+            "modified": "2025-04-15T23:55:09.258206"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\vjezbanje.o": {
+            "hashes": {
+                "md5": "81d3aefa26aa5124e2a175e8bf3e28cf",
+                "sha1": "b67805aae6a83fdfd49e2fa9d86e00ff74cbf6dd",
+                "sha256": "dc32816503dc4d92a872ef72aa3e0f1a26282537bf3a8458b8214b3e964540b1"
+            },
+            "size": 4163,
+            "modified": "2025-04-15T23:55:09.147560"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\vjezba_za_lv.cpp": {
+            "hashes": {
+                "md5": "6fae61321e580ebf4e0222da00a2db9b",
+                "sha1": "bbe1d8ed6a2e50b21165e990a91ba2bbfa1fd69d",
+                "sha256": "84ee634d6d7789b3e34f63caa3d50292a2f74a2a2add239ee2f681f2349005a7"
+            },
+            "size": 1467,
+            "modified": "2025-04-18T16:35:14.599154"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\vjezba_za_lv.exe": {
+            "hashes": {
+                "md5": "b6c7f33837ab5332aca5abaa830f5ef6",
+                "sha1": "03d46782efd93c9baea69a3c5fece9b8c2e9c39b",
+                "sha256": "c202ae37e95b66a540ccf3af7b020e35ba04d34ecb54bff30f743a0f400eda81"
+            },
+            "size": 62631,
+            "modified": "2025-04-18T16:35:15.167882"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\vjezba_za_lv.o": {
+            "hashes": {
+                "md5": "32b681f3dec90a53dc14061ee6b63c24",
+                "sha1": "39433193845d71a8f61d10b7c21fe568b1ba172a",
+                "sha256": "947fc104c2a78fd1c766a8275c69419861815d29084cab728b3f51cfc09903f5"
+            },
+            "size": 6142,
+            "modified": "2025-04-18T16:35:15.044744"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\z2_lv_test.c": {
+            "hashes": {
+                "md5": "ba0c98bc13c21790007b24323bb08fbe",
+                "sha1": "79f11e69c4a52a5a9ba98ac168ef4b6fae576b03",
+                "sha256": "ee47d80d222bdfca2bc09a42ccfd680feef17ac5cc8eee5caf54602c681b9927"
+            },
+            "size": 878,
+            "modified": "2025-03-27T04:31:46.689853"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\z2_lv_test.cpp": {
+            "hashes": {
+                "md5": "921804c9ab05bc984e512b3b9f7795c3",
+                "sha1": "10dfb7e6f0ec0230a284e3a0cc5ee8b9130661d7",
+                "sha256": "71700db45d9528bbffbe6ffa9bf903b895b498803041699cbbe53ac5083730c5"
+            },
+            "size": 936,
+            "modified": "2025-03-27T14:39:45.922862"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\z2_lv_test.exe": {
+            "hashes": {
+                "md5": "35102f0d81ee8a53b477e2c549203c55",
+                "sha1": "b274aac5da0913df148667d2580634bf1789ddf4",
+                "sha256": "801849eb9ced280a6f75a2c3901acc47d9bbc69614c4903447c5b85d30a08c7b"
+            },
+            "size": 61798,
+            "modified": "2025-03-27T14:39:46.411129"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\z2_lv_test.o": {
+            "hashes": {
+                "md5": "c6b8c76c9228358700e3be84cb029178",
+                "sha1": "76d4d950884d60d75a9e4eba608088ca2e372233",
+                "sha256": "22e1fe2dda24be2d549e0a69015bb12a4d55e2a7fa0148bf31712bac9d17ca26"
+            },
+            "size": 5374,
+            "modified": "2025-03-27T14:39:46.306733"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\z3.cpp": {
+            "hashes": {
+                "md5": "1ca5144652fc53d9de6a6fc991e8887f",
+                "sha1": "506d90779bbd777342d21f40eb7fbefe20aadeeb",
+                "sha256": "4ef8ec73fd11783a5d5bd45d3be133991a84981c7e0a97e5eff14ac674ca6810"
+            },
+            "size": 1112,
+            "modified": "2025-03-09T18:52:35.813602"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\z3.exe": {
+            "hashes": {
+                "md5": "cf5a662ba53ca61f085a4312d6bd0564",
+                "sha1": "d59ba5b707052a0c6dc2f4f02fc594a6fd91ba43",
+                "sha256": "25dc0ae902d6196c46a5f257527394f99410092dbcabe22a87d4d846aff6d40f"
+            },
+            "size": 110228,
+            "modified": "2025-03-09T18:53:44.767523"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\z3.o": {
+            "hashes": {
+                "md5": "7e774bb30ec816455a5e2fdc37de97e5",
+                "sha1": "ae5d3527485e41ecc85f19f7ad5f41c1cd131183",
+                "sha256": "6142a3deae7586be8faaacb57b6829ec6e3c9d9f4fa20bc6a6481986f63eebbc"
+            },
+            "size": 41225,
+            "modified": "2025-03-09T18:53:44.627405"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\z4.cpp": {
+            "hashes": {
+                "md5": "bc46ae20fc48a6cc8554199098cea305",
+                "sha1": "8eb6fd06114c0e32839af5989f28c0d7a4fd219f",
+                "sha256": "bc6ebc99078f4859dbf07e0534862f8e6c60b1c9bdf2c803b850a81895fd55d2"
+            },
+            "size": 1549,
+            "modified": "2025-03-09T21:37:57.428090"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\z4.exe": {
+            "hashes": {
+                "md5": "6b58496f3eec36b7c8cee435c85b8d05",
+                "sha1": "25d9b6758709b0eca49f896f70c51ce66f3c4a91",
+                "sha256": "c79efb8773d839c26d144ab30edf47131b4bdab12de1dd5610cfda2773d2cc21"
+            },
+            "size": 58650,
+            "modified": "2025-03-09T20:17:56.422955"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\z4.o": {
+            "hashes": {
+                "md5": "a533ff5817347c656aa85fc8f72c5dec",
+                "sha1": "486ef1da4029cf260e112342765583bc600864c2",
+                "sha256": "a090ae13a8bbb90d56bcf9b0343e52f650f9aaeb1ecb255f2a35098f130f9668"
+            },
+            "size": 4161,
+            "modified": "2025-03-09T20:17:56.306730"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\z5.cpp": {
+            "hashes": {
+                "md5": "3f35423c4624b9c227ad68c75159515f",
+                "sha1": "00178c58453a00e46e6b54a2719bd604feb77cec",
+                "sha256": "2b5e8612135b393cc735bc07931521e11ccff9b0b0ded853b4876010d8bb12dd"
+            },
+            "size": 1211,
+            "modified": "2025-03-10T00:41:53.362256"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\z5.exe": {
+            "hashes": {
+                "md5": "2cb69e78e63fa88e14bea41a64b43b7f",
+                "sha1": "a436d681deb6cbe2a531f35c79924fca21c593ff",
+                "sha256": "426d8b9c935158a26fb408d4c9cd6e0cda123dbc0af339e3b2e874b9553d57b6"
+            },
+            "size": 57124,
+            "modified": "2025-04-15T23:57:11.957483"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\z5.o": {
+            "hashes": {
+                "md5": "825f9123674ca65d37047b6d29d9c630",
+                "sha1": "e141794fa2c261d05852e39ffe859a33a578574e",
+                "sha256": "722ffdaad7011ed6f7336322b78fc4f0fd4bcd9c6f7a0cef6c33e432c194fe8c"
+            },
+            "size": 2918,
+            "modified": "2025-04-15T23:57:11.834380"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\zbirka1.cpp": {
+            "hashes": {
+                "md5": "11b293de9d50cd1f6fece2fdcf25ed8e",
+                "sha1": "51859566d42137536aa5dfb8c6eb27fd60ddb0d9",
+                "sha256": "9ec3ef8260f4ec668c3ee6303744e14ee1de64fb9d46373dcdba0f5859be3007"
+            },
+            "size": 378,
+            "modified": "2025-05-20T18:02:06.719199"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\zbirka1.exe": {
+            "hashes": {
+                "md5": "5290e92c769afd826fbda0e879696e71",
+                "sha1": "469411b0f773d65a7f13cd966e6aaa02ba22cd23",
+                "sha256": "e8d1bb7c5e6a2cad3ca3cd3eedc09b0e40406d96f5050be242fe09c93183bd90"
+            },
+            "size": 133025,
+            "modified": "2025-05-20T18:02:07.317820"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\zbirka1.o": {
+            "hashes": {
+                "md5": "7b30f5c74cedfd09522f64305ca2aab0",
+                "sha1": "ac0ff7d0b7774ce8e50a292c291210a4d3f4e832",
+                "sha256": "a85bdecc7d895d1a3e2041952fee3a0cfa0494715ec1ec68731c37264e56709a"
+            },
+            "size": 79704,
+            "modified": "2025-05-20T18:02:07.197602"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\zbirka2.cpp": {
+            "hashes": {
+                "md5": "31ca632dcdbbe2642b9b90dfbf7ade93",
+                "sha1": "60800cdb36d88fa9a263e65bb22d877d248292cc",
+                "sha256": "39b1527d45c10f1b1e0b9fce1efc3b88f1fd21dc57f69e9700250a57f99be2e9"
+            },
+            "size": 112,
+            "modified": "2025-05-20T18:13:22.384376"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\zbirka2.exe": {
+            "hashes": {
+                "md5": "aa457762b3d4a94fe95e9f4b99e942b6",
+                "sha1": "c9cef0473249470be4aa46f26aafc8818b61b8c9",
+                "sha256": "aae217b3a8d11683d3f22dcdfc4a115305fb98a7a1c11219b95e80c7c00cbfc6"
+            },
+            "size": 56226,
+            "modified": "2025-05-20T18:13:24.211257"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\zbirka2.o": {
+            "hashes": {
+                "md5": "d6514e6fcf1c2f3cf476897cd459dd31",
+                "sha1": "5d20060e6d6e356a98e41937ac3f5378c5640596",
+                "sha256": "b3c522d6e7f8ad1d90dc07f107291d72ba364aa5c150002bd3696d5decdb1571"
+            },
+            "size": 1855,
+            "modified": "2025-05-20T18:13:23.527635"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\zbirka3.cpp": {
+            "hashes": {
+                "md5": "4a29229ff53763421715030202660f21",
+                "sha1": "be2a21b35a7d8f5adc5977c7f1e9ed38b3c4fe00",
+                "sha256": "abb5895070ecc25b42ef795423c3809c2c96a320c450997a49ccb777ddd6f24f"
+            },
+            "size": 659,
+            "modified": "2025-05-21T16:32:09.048289"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\zbirka3.exe": {
+            "hashes": {
+                "md5": "1e6dd4b69a2ecf5da37e4e898c744ffc",
+                "sha1": "19ee14ddb2165dacc85aaceccafee73d808a2867",
+                "sha256": "a7236d09b712f45cc6491281a00f2b714b395a1f8d6a135bf3625110d6371cdf"
+            },
+            "size": 131636,
+            "modified": "2025-05-21T16:33:58.446208"
+        },
+        "C:/Users/harun/OneDrive/Desktop/cpp vjezbe\\zbirka3.o": {
+            "hashes": {
+                "md5": "61594caeb45ced3c9d091c404cb9a9a8",
+                "sha1": "518c6dfb3ffc375a6bbbb4f43cbcaf85b04e3ac6",
+                "sha256": "2198edb8744e146b6cbedefe67e3944a333647a625356b908aad30fa69eb731e"
+            },
+            "size": 78358,
+            "modified": "2025-05-21T16:33:58.319037"
+        }
+    },
+    "summary": {
+        "total_files": 83,
+        "processed_files": 83,
+        "error_files": 0
+    }
+}
