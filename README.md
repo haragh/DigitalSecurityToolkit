@@ -8,9 +8,9 @@ Sigurnosni alat za oporavak podataka, YARA skeniranje i forenzičku analizu.
 ```bash
 python main.py
 ```
-- Aplikacija će automatski proveriti admin privilegije
+- Aplikacija će automatski provjeriti admin privilegije
 - Ako nema admin privilegija, pokušaće da se restartuje sa admin privilegijama
-- Ako ne uspe, nastaviće u limited modu
+- Ako ne uspije, nastaviti će u limited modu
 
 ### Opcija 2: Admin launcher (alternativno)
 ```bash
@@ -23,7 +23,7 @@ python run_as_admin.py
 1. Desni klik na `main.py`
 2. "Run as administrator"
 
-## ⚠️ Rešavanje problema sa UAC promptom
+## ⚠️ Rješavanje problema sa UAC promptom
 
 Ako se aplikacija gasi nakon UAC prompta:
 
@@ -36,7 +36,7 @@ Ako se aplikacija gasi nakon UAC prompta:
    - Desni klik na `main.py`
    - "Run as administrator"
 
-3. **Proverite da li imate pytsk3 instaliran:**
+3. **Provjerite da li imate pytsk3 instaliran:**
    ```bash
    pip install pytsk3
    ```
@@ -59,7 +59,7 @@ Ako se aplikacija gasi nakon UAC prompta:
 - Timeline analysis
 - Security reports
 
-## 📋 Zahteve
+## 📋 Zahtjeve
 
 - Python 3.7+
 - Windows 10/11
@@ -68,7 +68,7 @@ Ako se aplikacija gasi nakon UAC prompta:
 
 ## 🛠️ Instalacija
 
-1. **Klonirajte repozitorijum:**
+1. **Klonirajte repozitorij:**
    ```bash
    git clone <repository-url>
    cd digital_security_toolkit
@@ -84,9 +84,9 @@ Ako se aplikacija gasi nakon UAC prompta:
    python main.py
    ```
 
-## 🔒 Sigurnosne mere
+## 🔒 Sigurnosne mjere
 
-- **Read-only operacije** - aplikacija ne menja sistemske fajlove
+- **Read-only operacije** - aplikacija ne mijenja sistemske fajlove
 - **Admin provera** - pytsk3 oporavak radi samo sa admin privilegijama
 - **Ograničenja** - maksimalno 100MB unallocated carving
 - **Safe paths** - skenira samo korisničke direktorije
@@ -98,7 +98,7 @@ Ako se aplikacija gasi nakon UAC prompta:
 
 ## 🧪 Testiranje
 
-Pokrenite test skriptu da proverite funkcionalnost:
+Pokrenite test skriptu da provjerite funkcionalnost:
 ```bash
 python test_admin.py
 ```
